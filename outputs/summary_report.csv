@@ -1,0 +1,13 @@
+metric,value
+total_requests,4800
+top_country,Botswana
+top_category,ai_virtual_assistant
+success_rate_200_percent,62.4
+job_requests,182
+schedule_demo_requests,1671
+promotional_event_requests,258
+ai_virtual_assistant_requests,2317
+mean_requests_per_day,26.52
+std_requests_per_day,4.99
+max_requests_in_one_day,41
+min_requests_in_one_day,12
